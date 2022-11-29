@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9D38B41D-3903-4B26-B71C-3EA8C86E79B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.RazorCurrencyConvertor PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorCurrencyConvertor" expanded="True">
+            <Node name="RazorCurrencyConvertor" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
