@@ -10302,11 +10302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
+      "projectUniqueName": "/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
       "projectName": "ContosoUniversityRazor",
-      "projectPath": "/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
+      "projectPath": "/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
       "packagesPath": "/Users/maartenvanderbeeken/.nuget/packages/",
-      "outputPath": "/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/obj/",
+      "outputPath": "/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/maartenvanderbeeken/.nuget/NuGet/NuGet.Config"

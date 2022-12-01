@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ContosoUniversityRazor
 build_property.RootNamespace = ContosoUniversityRazor
-build_property.ProjectDir = /Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/
+build_property.ProjectDir = /Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/maartenvanderbeeken/Projects/ContosoUniversityRazor
+build_property.MSBuildProjectDirectory = /Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/About.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Error.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Index.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Privacy.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Students/Create.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Students/Delete.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Students/Details.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Students/Edit.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Students/Index.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/_ViewImports.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/_ViewStart.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/Pages/Shared/_Layout.cshtml]
+[/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-irit194w0q

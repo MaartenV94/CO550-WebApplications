@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqMNblTNJCzMZ1DvuV5ug7VVOhq9mos46YdVtFdYrUUwVqgDGpoiozpdxu277X/5Z4O3uVkgUZjkahbTW3qJpg==",
+  "dgSpecHash": "pn784TXO3xGNQftXKFO64Nyq37NzVVIWe3gtj9p53iyntAfgM1qaCiw64TLuLV7oJT07o7aYAlFkD9fKsf4a2g==",
   "success": true,
-  "projectFilePath": "/Users/maartenvanderbeeken/Projects/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
+  "projectFilePath": "/Users/maartenvanderbeeken/Documents/GitHub/CO550-WebApplications/RazorCurrencyConverter/ContosoUniversityRazor/ContosoUniversityRazor/ContosoUniversityRazor.csproj",
   "expectedPackageFiles": [
     "/Users/maartenvanderbeeken/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/maartenvanderbeeken/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
