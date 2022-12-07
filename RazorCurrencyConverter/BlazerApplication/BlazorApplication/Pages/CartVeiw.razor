@@ -1,9 +1,10 @@
 ﻿@page "/CartView"
 @inject CartService CartServivce
 
-<h1>Shopping Cart</h1>
+<h1>Shopping cart</h1>
+<h3>You have @CartService.SelectedItems.Count in cart</h3>
 
-<ShoppingCartList></ShoppingCartList>
+<ProductList Products="CartService.SelectedItems"></ProductList>
 
 @code {
 
