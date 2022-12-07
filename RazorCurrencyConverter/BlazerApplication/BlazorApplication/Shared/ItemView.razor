@@ -1,0 +1,13 @@
+﻿<tr>
+    <td>@Item.Product.Name</td>
+    <td>@Item.Quantity</td>
+    <td>@Item.PurchasePrice</td>
+    <td></td>
+</tr>
+
+@code
+{
+    [Parameter]
+    public ShoppingItem Item { get; set; }
+}
+
