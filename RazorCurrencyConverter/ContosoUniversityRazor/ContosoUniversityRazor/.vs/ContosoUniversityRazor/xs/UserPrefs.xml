@@ -1,27 +1,17 @@
 ﻿<Properties StartupConfiguration="{E8C655AD-48F7-416D-8541-1C84AC2AAA0E}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Students/Delete.cshtml">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Student.cs">
     <Files>
-      <File FileName="Program.cs" />
-      <File FileName="Pages/Students/Details.cshtml" />
-      <File FileName="Pages/Students/Create.cshtml.cs" />
-      <File FileName="Pages/Students/Edit.cshtml.cs" />
-      <File FileName="Pages/Students/Details.cshtml.cs" />
-      <File FileName="Pages/Students/Delete.cshtml" Line="14" Column="21" />
+      <File FileName="Models/Student.cs" Line="5" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ContosoUniversityRazor" expanded="True">
             <Node name="ContosoUniversityRazor" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Students" expanded="True">
-                  <Node name="Details.cshtml" expanded="True" />
-                  <Node name="Edit.cshtml" expanded="True" />
-                </Node>
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,7 +19,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.ContosoUniversityRazor PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
