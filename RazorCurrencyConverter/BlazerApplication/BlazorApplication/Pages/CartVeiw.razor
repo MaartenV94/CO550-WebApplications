@@ -2,10 +2,12 @@
 @inject CartService CartServivce
 
 <h1>Shopping cart</h1>
-<h3>You have @CartService.SelectedItems.Count in cart</h3>
 
-<ProductList Products="CartService.SelectedItems"></ProductList>
+
+<ShoppingCartList Items="CartService.SelectedItems"></ShoppingCartList>
 
 @code {
+
+    private int itemCount = 0;
 
 }

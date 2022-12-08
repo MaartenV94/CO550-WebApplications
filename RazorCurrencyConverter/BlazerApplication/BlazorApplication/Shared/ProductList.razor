@@ -4,23 +4,7 @@
 
 @foreach(Product product in Products)
 {
-        <div class="card w-50">
-
-            <div class="card-header">
-                Ibanez Guitars
-            </div>
-            <div class="card-body">
-                <h5 class="card-title">Guitar @product.Id: @product.Name</h5>
-                <p class="card-text">@product.Description</p>
-                <blockquote class="card-text"><strong>£@product.Price</strong></blockquote>
-
-                @if (DisplayBuyButton)
-                {
-                    <button href="#" class="btn btn-primary" type="button">Buy</button>
-                }
-
-            </div>
-        </div>
+       <ProductView product="product"></ProductView>
 
 }
 
@@ -31,9 +15,6 @@
     [EditorRequired]
     [Parameter]
     public List<Product> Products { get; set; } = ProductService.Products.ToList();
-
-    [Parameter]
-    public bool DisplayBuyButton { get; set; } = true;
 
 }
 

@@ -1,10 +1,23 @@
 ﻿<Properties StartupConfiguration="{72CC705C-E804-4DA1-9A86-6F8ED5E7E9DE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApplication/Pages/CartVeiw.razor">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlazorApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApplication/Shared/ProductList.razor">
     <Files>
-      <File FileName="BlazorApplication/Pages/CartVeiw.razor" Line="12" Column="1" />
-      <File FileName="BlazorApplication/Services/CartService.cs" Line="1" Column="1" />
-      <File FileName="BlazorApplication/Shared/ProductList.razor" Line="1" Column="1" />
-      <File FileName="BlazorApplication/Shared/ShoppingCartList.razor" Line="2" Column="1" />
+      <File FileName="BlazorApplication/Shared/ItemView.razor" Line="62" Column="2" />
+      <File FileName="BlazorApplication/Shared/ProductList.razor" Line="7" Column="30" />
+      <File FileName="BlazorApplication/Services/CartService.cs" Line="14" Column="10" />
+      <File FileName="BlazorApplication/Shared/ProductView.razor" Line="37" Column="1" />
+      <File FileName="BlazorApplication/Models/ShoppingItem.cs" Line="1" Column="1" />
+      <File FileName="BlazorApplication/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="BlazorApplication/Pages/CartVeiw.razor" Line="11" Column="17" />
+      <File FileName="BlazorApplication/Pages/Index.razor" Line="13" Column="1" />
+      <File FileName="BlazorApplication/Services/ProductService.cs" Line="1" Column="1" />
+      <File FileName="BlazorApplication/Shared/ShoppingCartList.razor" Line="56" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,19 +29,13 @@
               <Node name="Pages" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="Shared" expanded="True">
-                <Node name="ShoppingCartList.razor" selected="True" />
+                <Node name="ProductList.razor" selected="True" />
               </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BlazorApplication PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
