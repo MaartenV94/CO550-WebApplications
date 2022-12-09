@@ -51,8 +51,8 @@
     }
 
     public void OnQuantityChanged()
-{
+    {
         totalCost = @Items.Sum(item => item.PurchasePrice * item.Quantity);
         Items.RemoveAll(i => i.Quantity == 0);
-}
+    }
 }

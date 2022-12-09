@@ -13,7 +13,9 @@ namespace BlazorApplication.Models
 		public string? Description { get; set; } = null;
 
 		[Range(0, 100.00)]
-		public decimal Price { get; set; } = 0; 
+		public decimal Price { get; set; } = 0;
+
+		public string? Photo { get; set; } = String.Empty;
 	}
 }
 
